@@ -11,56 +11,66 @@
 _***ÜYELİK ÖZELLİKLERİ***_
 
 
-***1 -  Giriş Sistemi***
+***1 -  Giriş Sistemi***🚀
 
 
 
-***2 -  Kayıt Sistemi***
+***2 -  Kayıt Sistemi***🚀
 
 
 
-***3 -  Şifre Yenileme Sistemi***
+***3 -  Şifre Yenileme Sistemi***🚀
 
 
 
-***4 -  ADMİN VE ÜYE GİRİŞİ AYRIMI***
+***4 -  ADMİN VE ÜYE GİRİŞİ AYRIMI***🚀
+
+
+
 
 
 _***ÜRÜN ÖZELLİKLERİ***_
 
 
 
-***1 - ÜRÜN EKLEME***
+***1 - ÜRÜN EKLEME***🚀
 
 
 
-***2 - ÜRÜN LİSTELEME***
+***2 - ÜRÜN LİSTELEME***🚀
+
+
+
+
 
 _***ADMİN ÖZELLİKLERİ***_
 
 
 
-***1 - ÜYELİK SİLME***
+***1 - ÜYELİK SİLME***🚀
 
 
 
-***2 - ÜYELİK BİLGİLERİ DEĞİŞTİRME***
+***2 - ÜYELİK BİLGİLERİ DEĞİŞTİRME***🚀
 
 
 
-***3 - ÜYE LİSTELEME***
+***3 - ÜYE LİSTELEME***🚀
 
 
 
-***4 - ÜYE ARAMA***
+***4 - ÜYE ARAMA***🚀
 
 
 
-***5 - ÜRÜN EKLEME***
+***5 - ÜRÜN EKLEME***🚀
 
 
 
-***6 - ÜRÜN STOK KONTROL***(bu sürümde elle girişlidir.)
+***6 - ÜRÜN STOK KONTROL***(bu sürümde elle girişlidir.)🚀
+
+
+
 
 _***KART SİSTEMİ***_
 
@@ -70,11 +80,17 @@ _***KART SİSTEMİ***_
 
 
 
-***1- KART LİSTELEME***
 
 
 
-***2 - KART KALDRIMA***
+***1- KART LİSTELEME***🚀
+
+
+
+***2 - KART KALDRIMA***🚀
+
+
+
 
 
 _***BELİRLİ BÖLÜMLERDE HATA VARDIR.***_
