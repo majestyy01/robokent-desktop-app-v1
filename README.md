@@ -12,33 +12,83 @@ _***ÜYELİK ÖZELLİKLERİ***_
 
 
 ***1 -  Giriş Sistemi***
+
+
+
 ***2 -  Kayıt Sistemi***
+
+
+
 ***3 -  Şifre Yenileme Sistemi***
+
+
+
 ***4 -  ADMİN VE ÜYE GİRİŞİ AYRIMI***
 
 
 _***ÜRÜN ÖZELLİKLERİ***_
+
+
+
 ***1 - ÜRÜN EKLEME***
+
+
+
 ***2 - ÜRÜN LİSTELEME***
 
 _***ADMİN ÖZELLİKLERİ***_
+
+
+
 ***1 - ÜYELİK SİLME***
+
+
+
 ***2 - ÜYELİK BİLGİLERİ DEĞİŞTİRME***
+
+
+
 ***3 - ÜYE LİSTELEME***
+
+
+
 ***4 - ÜYE ARAMA***
+
+
+
 ***5 - ÜRÜN EKLEME***
+
+
+
 ***6 - ÜRÜN STOK KONTROL***(bu sürümde elle girişlidir.)
 
 _***KART SİSTEMİ***_
+
+
+
 ***[DİKKAT - BURADA BELİRTİLEN KARTLAR SAHTE KART ÜRETEN BİR GENERATOR İLE ÜRETİLMİŞTİR VE GERÇEK DEĞİLDİR - DİKKAT]***
+
+
+
 ***1- KART LİSTELEME***
+
+
+
 ***2 - KART KALDRIMA***
 
 
 _***BELİRLİ BÖLÜMLERDE HATA VARDIR.***_
+
+
 ***SEPET SİSTEMİ VE BENZERİ EKLEMEDİĞİM BAZI BÖLÜMLER BAKIM SEBEBİYLE KALDIRILMIŞTIR.***
+
+
 ***ADMİN BİLGİLERİ ELLE GİRİŞLİDİR VE SORUN YAŞANMAMASI SEBEBİYLE TEK BİR ADMİN BİLGİSİ OLUŞTURULMUŞTUR.***
+
+
 ***KART BİLGİLERİ ELLE GİRİŞLİDİR.***
+
+
 ***E-POSTA AYARLARINDAN 3.PARTİ ÖZELLİĞİNİ AÇMAYI UNUTMAYIN YOKSA SIFIRLAMA SİSTEMİ ÇALIŞMAZ.***
 
 
